@@ -1,0 +1,2 @@
+class DevPortfolio < ApplicationRecord
+end
